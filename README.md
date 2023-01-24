@@ -2,5 +2,5 @@
 A device that lets you monitor your pet and dispense treats to them
  
 <p align="center">
-  <img src="https://github.com/Lexi-Hunter/Mia-Snacc-Dispenser/blob/main/Images/Banner.png">
+  <img src="https://github.com/Lexi-Hunter/Mia-Snacc-Dispenser/blob/main/Images/MSD_Banner.png">
 </p>
