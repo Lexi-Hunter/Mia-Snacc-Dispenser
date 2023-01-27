@@ -10,4 +10,4 @@ The Mia Snacc Dispenser (MSD) is a passion project that I worked on that allows 
 I was motivated to build this device as multiple family members in our house moved away at around the same time, whilst our dog Mia stayed behind. The MSD allows all of my family members to see and interact with Mia regardless of where they are in the world and therefore feel a greater sense of connection.
 
 ## How does it work?
-![Alt Text](Images/Loading_Carrot.gif)
+![Alt Text](Images/Loading_MSD.gif)
