@@ -54,3 +54,7 @@ Here is an xray view of the underside of the device, where the electronics are s
 
 ## Software
 To replicate this project you'll need some basic knowledge of Raspberry Pi, setting up the OS, enabling the camera, etc. Once you have all the basics set up, simply run the Mia_Snacc_Dispenser.py file and it will come to life! It is most useful if you set the python file to auto launch upon booting up, so as soon as the device receives power, it'll auto start the program and just work!
+
+<p align="center">
+ <img src="https://github.com/Lexi-Hunter/Mia-Snacc-Dispenser/blob/main/Images/In_Memory_Mia.png" width="700">
+</p>
