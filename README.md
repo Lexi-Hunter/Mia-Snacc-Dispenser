@@ -10,12 +10,24 @@ The Mia Snacc Dispenser (MSD) is a passion project that I worked on that allows 
 I was motivated to build this device as multiple family members in our house moved away at around the same time, whilst our dog Mia stayed behind. The MSD allows all of my family members to see and interact with Mia regardless of where they are in the world and therefore feel a greater sense of connection.
 
 ## How does it work?
-A Raspberry Pi Zero W is used to create the site interface along with a Raspberry Pi camera module to capture the live stream. The device is attached to the ceiling so that its contents are out of reach, and so that upon being dispensed, the treat will then drop down and be accessible.
+A Raspberry Pi Zero W is used to create the site interface along with a Raspberry Pi camera module to capture the live stream. The device is attached to the ceiling so that its contents are out of reach, and so that upon being dispensed, the treat will then drop down and be accessible. A stepper motor is responsible for moving all the treats within the storage area and to dispense exactly one item.
 
 ## Site interface
 <p align="center">
  <img src="https://github.com/Lexi-Hunter/Mia-Snacc-Dispenser/blob/main/Images/Interface.png" width="700">
 </p>
+
+## Real World Implementation
+Here is what the device looks like when it is installed on a ceiling:
+<p align="center">
+ <img src="https://github.com/Lexi-Hunter/Mia-Snacc-Dispenser/blob/main/Images/Real_World_Application.png" width="700">
+</p>
+
+## Demo Video
+Here is a screen recording of the device being used. Multiple users can access the page simultaneously and dispense treats. In the video my sister and I are both dispensing treats by pressing the button (which is why some treats are dispensed when the button isn't pressed in the recording)
+
+[![MSD Video](https://img.youtube.com/vi/GJGxbpRRaEQ/0.jpg)](https://www.youtube.com/watch?v=GJGxbpRRaEQ)
+
 
 ## How do treats get dispensed?
 The device was originally intended to store and dispense sliced carrots as this would be a healthy but tasty option, but upon experimentation, carrots were found to produce too much friction within the mechanism, and the carrot slices would expire faster than anticipated. It was decided that solid dry dog treats would be ideal as they would solve both of these problems.
@@ -41,4 +53,4 @@ Here is an xray view of the underside of the device, where the electronics are s
 </p>
 
 ## Software
-To replicate this project you'll need some basic knowledge of Raspberry Pi, setting up the OS, enabling the camera, etc. Once you have all the basics set up, simply run the Mia_Snacc_Dispenser.py file and it will come to life! It is most useful if you set the python file to auto launch upon booting up, so as soon as the device receives power, it'll auto start the program and just work.
+To replicate this project you'll need some basic knowledge of Raspberry Pi, setting up the OS, enabling the camera, etc. Once you have all the basics set up, simply run the Mia_Snacc_Dispenser.py file and it will come to life! It is most useful if you set the python file to auto launch upon booting up, so as soon as the device receives power, it'll auto start the program and just work!
