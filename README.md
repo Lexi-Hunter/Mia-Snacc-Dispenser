@@ -45,6 +45,12 @@ Here is the improved design which stores spherical dog treats:
  <img src="https://github.com/Lexi-Hunter/Mia-Snacc-Dispenser/blob/main/Images/V2_Storage_X_Ray.png" width="700">
 </p>
 
+## 3D Printing
+In the 3D-Models folder there are the following 4 files that need to be printed and then assembled:
+<p align="center">
+ <img src="https://github.com/Lexi-Hunter/Mia-Snacc-Dispenser/blob/main/Images/3D_Models.png" width="700">
+</p>
+
 ## Electronics
 Here is an xray view of the underside of the device, where the electronics are stored:
 
