@@ -30,7 +30,7 @@ The V2 of the MSD improved upon the first iteration by changing to a substance w
 
 Here is the improved design which stores spherical dog treats:
 <p align="center">
- <img src="https://github.com/Lexi-Hunter/Mia-Snacc-Dispenser/blob/main/Images/V2_Storage.png" width="700">
+ <img src="https://github.com/Lexi-Hunter/Mia-Snacc-Dispenser/blob/main/Images/.png" width="700">
 </p>
 
 ## Electronics
